@@ -1,5 +1,7 @@
 # Mai C1 Edit + Thong
 
+**By G80M3 on GitHub / Diamond Fountain Works on Nexus Mods**
+
 [Diamond Fountain Works](https://github.com/Diamond-Fountain-Works) · [G80M3](https://github.com/G80M3)
 
 我也做软件和工具开发，欢迎到 Diamond Fountain Works 和我的个人 GitHub G80M3 看看其他项目。
@@ -82,9 +84,7 @@ Disable the current Mai C1 mod before switching thickness, hair or thong options
 
 ## Credits / 鸣谢
 
-- BrutalAce — original costume base, KOFXIII variant / 原服装底模。
-- W33 Savanah character asset — source of the additional hair mesh / 附加毛发的源角色资源。
-- Diamond Fountain Works / G80M3 — model edits, variant preparation and mod packaging / 模型调整、版本整理与 MOD 打包。
+- G80M3 on GitHub / Diamond Fountain Works on Nexus Mods — model edits, variant preparation and mod packaging / 模型调整、版本整理与 MOD 打包。
 
 ## Validation / 验证
 

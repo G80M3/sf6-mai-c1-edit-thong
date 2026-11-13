@@ -11,19 +11,20 @@
     {
       "name": "Mai-C1-Edit-Thong-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
-      "sha256": "a7e3d0be5340ff2bdfbbd1154d6f90d21898b6aa52f62014f8ceee35cfd891ce",
-      "size": 33092098,
+      "sha256": "2bc150a232b81ea6599c653ce07a2bed0e605b169df8f11cc37bb557469c1690",
+      "size": 33092095,
       "percent": 0,
       "hair": "PublicHair"
     },
     {
       "name": "Mai-C1-Edit-Thong-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
-      "sha256": "8111e8b456367612f59ffa5a089a02b60318b021f2afd12cfcd8e4b3041fd06d",
-      "size": 30266151,
+      "sha256": "ec176636e3e4112a43bc4189b0d9e72988b721bbb316bfa118e23648e0edf19b",
+      "size": 30266150,
       "percent": 0,
       "hair": "NoPublicHair"
     }
   ],
-  "publication_scope": "installation_zip_only"
+  "publication_scope": "installation_zip_only",
+  "author": "G80M3 on GitHub / Diamond Fountain Works on Nexus Mods"
 }

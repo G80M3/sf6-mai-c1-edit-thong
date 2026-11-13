@@ -3,6 +3,8 @@ Diamond Fountain Works：https://github.com/Diamond-Fountain-Works
 G80M3：https://github.com/G80M3
 Mai C1 Edit + Thong：https://github.com/G80M3/sf6-mai-c1-edit-thong
 
+Author: G80M3 on GitHub / Diamond Fountain Works on Nexus Mods
+
 我也做软件和工具开发，欢迎到 Diamond Fountain Works 和我的个人 GitHub G80M3 看看其他项目。
 I also develop software and tools. Explore my other projects at Diamond Fountain Works and on my personal GitHub, G80M3.
 
@@ -40,9 +42,7 @@ Requirements｜使用要求
 
 Shout outs｜鸣谢
 
-BrutalAce：原服装底模（KOFXIII 版本）。
-W33 Savanah：附加毛发的源角色资源。
-Diamond Fountain Works / G80M3：模型调整、版本整理与 MOD 打包。
+G80M3 on GitHub / Diamond Fountain Works on Nexus Mods：模型调整、版本整理与 MOD 打包。
 
 English
 
@@ -78,6 +78,4 @@ Requirements
 
 Shout outs
 
-BrutalAce — original costume base, KOFXIII variant.
-W33 Savanah character asset — source of the additional hair mesh.
-Diamond Fountain Works / G80M3 — model edits, variant preparation and mod packaging.
+G80M3 on GitHub / Diamond Fountain Works on Nexus Mods — model edits, variant preparation and mod packaging.
