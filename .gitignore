@@ -1,0 +1,11 @@
+.DS_Store
+__MACOSX/
+*.zip
+*.blend
+*.blend[0-9]
+*.mesh.*
+*.tex.*
+/SHA256SUMS.txt
+__pycache__/
+.env
+.env.*

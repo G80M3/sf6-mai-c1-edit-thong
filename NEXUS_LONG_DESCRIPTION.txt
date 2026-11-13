@@ -1,0 +1,83 @@
+GitHub：Diamond Fountain Works · G80M3
+Diamond Fountain Works：https://github.com/Diamond-Fountain-Works
+G80M3：https://github.com/G80M3
+Mai C1 Edit + Thong：https://github.com/G80M3/sf6-mai-c1-edit-thong
+
+我也做软件和工具开发，欢迎到 Diamond Fountain Works 和我的个人 GitHub G80M3 看看其他项目。
+I also develop software and tools. Explore my other projects at Diamond Fountain Works and on my personal GitHub, G80M3.
+
+中文
+
+简介
+
+Mai C1 Edit + Thong 基于我们自己的 Mai C1 Edit，在原有 C1 造型上加入重新剪裁的 Thong。保留收窄后的胸前布料、调整后的前片和缩短的 Obi；Thong 前片收细，腰部衔接更平滑，保留原有腰部尺寸与后片轮廓。
+
+提供 Pubic Hair（有毛）和 No Pubic Hair（无毛）两个版本。两者的服装与身体模型一致，仅附加毛发不同。每个 ZIP 都是独立安装包。
+
+Installation instructions｜安装方法
+
+1. 关闭游戏，下载你想使用的一个毛发版本 ZIP。
+2. 打开 Fluffy Mod Manager，选择 Street Fighter 6。
+3. 将下载的 ZIP 添加到管理器中，启用对应 MOD。
+4. 启动游戏，选择 Mai C1。
+
+同一时间使用一个 Mai C1 安装包。切换腿围、毛发或 Thong 组合时，先停用当前版本，再启用新版本。
+
+Main features｜主要特点
+
+- 保留 Mai C1 Edit 的胸前布料、前片与 Obi 调整。
+- 加入重新剪裁的 Thong，前片收细，腰部过渡更平滑。
+- 保留 Thong 原有腰部尺寸与后片轮廓。
+- 提供有毛、无毛两个独立安装包。
+- 沿用原有贴图与骨骼绑定。
+- 通过 Fluffy Mod Manager 安装与管理。
+
+Requirements｜使用要求
+
+- PC 版 Street Fighter 6。
+- 游戏中可使用 Mai。
+- Fluffy Mod Manager。
+
+Shout outs｜鸣谢
+
+BrutalAce：原服装底模（KOFXIII 版本）。
+W33 Savanah：附加毛发的源角色资源。
+Diamond Fountain Works / G80M3：模型调整、版本整理与 MOD 打包。
+
+English
+
+Description
+
+Mai C1 Edit + Thong builds on our Mai C1 Edit with a reshaped thong. It retains the narrower top panels, revised tare and shorter Obi. The thong has a slimmer front and smoother waist transitions, with the original waist fit and rear silhouette retained.
+
+Two variants are available: Pubic Hair and No Pubic Hair. Both use the same clothing and body meshes; only the added hair differs. Each ZIP is a standalone package.
+
+Installation instructions
+
+1. Close the game and download one ZIP with your preferred hair option.
+2. Open Fluffy Mod Manager and select Street Fighter 6.
+3. Add the downloaded ZIP to the manager and enable the mod.
+4. Launch the game and select Mai C1.
+
+Use one Mai C1 package at a time. Disable the current package before switching thickness, hair or thong options, then enable the new one.
+
+Main features
+
+- Retains the top-panel, tare and Obi edits from Mai C1 Edit.
+- Adds a reshaped thong with a slimmer front and smoother waist transitions.
+- Retains the original thong waist fit and rear silhouette.
+- Separate Pubic Hair and No Pubic Hair packages.
+- Original textures and skeletal bindings retained.
+- Installation and management through Fluffy Mod Manager.
+
+Requirements
+
+- Street Fighter 6 on PC.
+- Access to Mai in-game.
+- Fluffy Mod Manager.
+
+Shout outs
+
+BrutalAce — original costume base, KOFXIII variant.
+W33 Savanah character asset — source of the additional hair mesh.
+Diamond Fountain Works / G80M3 — model edits, variant preparation and mod packaging.
