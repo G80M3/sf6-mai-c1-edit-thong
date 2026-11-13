@@ -17,40 +17,13 @@
       "hair": "PublicHair"
     },
     {
-      "name": "Mai-C1-Edit-Thong-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "65e060ab92423527ce67e4e1c1111d1c7aa09370bd1f638a49b915411595909a",
-      "size": 46470446,
-      "percent": 0,
-      "hair": "PublicHair"
-    },
-    {
       "name": "Mai-C1-Edit-Thong-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
       "sha256": "8111e8b456367612f59ffa5a089a02b60318b021f2afd12cfcd8e4b3041fd06d",
       "size": 30266151,
       "percent": 0,
       "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-C1-Edit-Thong-No-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "349fe802c2b4c574bae8cafe144e2d839b9150c3e384cd5b4cf12c7ef9d8013f",
-      "size": 43764231,
-      "percent": 0,
-      "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-Thong-Group66-ConceptA-v1.0.0.blend",
-      "kind": "standalone_thong_blend",
-      "sha256": "86b3c602beac90c0789883b0413c18a27383e81f4c7cb9dec801cc522c69063c",
-      "size": 36495370
-    },
-    {
-      "name": "SHA256SUMS.txt",
-      "kind": "checksums",
-      "sha256": "b303b08e6c93ed159bf9c19edef2559c01aea62ffde4123790e8b99d10aa8bab",
-      "size": 540
     }
-  ]
+  ],
+  "publication_scope": "installation_zip_only"
 }

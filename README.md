@@ -10,18 +10,17 @@ I also develop software and tools. Explore my other projects at Diamond Fountain
 
 [v1.0.0 release](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/tag/v1.0.0)
 
-| Legs / 腿围 | Hair / 毛发 | Fluffy ZIP | Blender |
-| --- | --- | --- | --- |
-| Original / 原腿型 | Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/download/v1.0.0/Mai-C1-Edit-Thong-Pubic-Hair-v1.0.0.zip) | [.blend](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/download/v1.0.0/Mai-C1-Edit-Thong-Pubic-Hair-v1.0.0.blend) |
-| Original / 原腿型 | No Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/download/v1.0.0/Mai-C1-Edit-Thong-No-Pubic-Hair-v1.0.0.zip) | [.blend](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/download/v1.0.0/Mai-C1-Edit-Thong-No-Pubic-Hair-v1.0.0.blend) |
+| Legs / 腿围 | Hair / 毛发 | Fluffy ZIP |
+| --- | --- | --- |
+| Original / 原腿型 | Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/download/v1.0.0/Mai-C1-Edit-Thong-Pubic-Hair-v1.0.0.zip) |
+| Original / 原腿型 | No Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/download/v1.0.0/Mai-C1-Edit-Thong-No-Pubic-Hair-v1.0.0.zip) |
 
-ZIP 用于 Fluffy Mod Manager 安装；`.blend` 用于 Blender 查看与编辑，贴图已内嵌。每个 ZIP 都是独立安装包，同一时间启用一个 Mai C1 安装包。
+选择一个 ZIP，通过 Fluffy Mod Manager 安装。每个 ZIP 都是独立安装包，同一时间启用一个 Mai C1 安装包。
 
-Use ZIP files with Fluffy Mod Manager. The optional `.blend` files contain packed textures for viewing and editing in Blender. Each ZIP is a standalone package; enable one Mai C1 package at a time.
+Install one ZIP with Fluffy Mod Manager. Each ZIP is a standalone package; enable one Mai C1 package at a time.
 
-- [Mai-Thong-Group66-ConceptA-v1.0.0.blend](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/download/v1.0.0/Mai-Thong-Group66-ConceptA-v1.0.0.blend)
 
-[Download checksums](https://github.com/G80M3/sf6-mai-c1-edit-thong/releases/download/v1.0.0/SHA256SUMS.txt)
+[Checksums / 校验值](RELEASE_SHA256SUMS.txt)
 
 ## 中文
 
